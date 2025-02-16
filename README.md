@@ -4,7 +4,7 @@
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
 
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By CASEYRHODES 🌟</u>
+<up A simple WhatsApp User Bot Coded By Sancho 🌟</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/j5de8g.jpg"/>       
@@ -13,7 +13,7 @@
             
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN-+CHARITY+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYWEB;RELEASED+DATE+05%2F11%2F2024" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ LORD-+SANCHO+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYWEB;RELEASED+DATE+05%2F11%2F2024" alt="Typing SVG" /></a>
  
  ## Deployment Methods
 
@@ -110,7 +110,7 @@ npm start
 
 
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C" target="_blank">
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
