@@ -117,7 +117,9 @@ npm start
 
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/caseyweb)
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://chat.whatsapp.com/DBJTUlC0Bz7KFJqjB1pqfe)
+
+https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
